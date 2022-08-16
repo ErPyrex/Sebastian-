@@ -7,4 +7,3 @@
 
 * Control completo sobre dios sebastian
 * Control sobre los hijos de Sebastian God
-* Nose
