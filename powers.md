@@ -1,6 +1,7 @@
 # Dios Sebastian
 
 * Completo control sobre la realidad misma
+* Vuela Bonito
 
 # El amo
 
