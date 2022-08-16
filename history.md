@@ -1,3 +1,3 @@
 # Historia de los sebastianes
 
-Son una raza presuntamente alienigena
+Son una raza alienigena
